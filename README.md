@@ -25,14 +25,14 @@
 
 ## Tools I use
 
-**Marketing automation and CRM:** n8n · Zapier · HubSpot · Mailchimp · Salesforce · Bloomreach
-**AI:** Claude · Claude Code · ChatGPT · Codex · Gemini · OpenAI API · Vapi voice AI · Pinecone · Firecrawl
-**Data:** Power BI · Google Analytics · Excel · Airtable · Supabase
+**Marketing automation and CRM:** n8n · Zapier · HubSpot · Mailchimp · Salesforce · Bloomreach  
+**AI:** Claude · Claude Code · ChatGPT · Codex · Gemini · OpenAI API · Vapi voice AI · Pinecone · Firecrawl  
+**Data:** Power BI · Google Analytics · Excel · Airtable · Supabase  
 **Building:** Python · JavaScript · React · Next.js · FastAPI · Vite
 
 ## My path
 
-📣 **Marketing Manager in New Delhi:** 20+ brands across food, drinks, FMCG, beauty and hospitality, £90k+ in B2B partnerships with Budweiser and Kingfisher, 50+ creators.
-🎓 **MSc Marketing, University of Bristol.**
-⚙️ **CRM Analyst in the UK:** automated CRM, lifecycle emails and reporting for an 82-property portfolio.
+📣 **Marketing Manager in New Delhi:** 20+ brands across food, drinks, FMCG, beauty and hospitality, £90k+ in B2B partnerships with Budweiser and Kingfisher, 50+ creators.  
+🎓 **MSc Marketing, University of Bristol.**  
+⚙️ **CRM Analyst in the UK:** automated CRM, lifecycle emails and reporting for an 82-property portfolio.  
 🤖 **Marketing and AI automation consultant since 2024,** building the systems you can see here.
